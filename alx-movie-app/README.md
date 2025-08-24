@@ -50,3 +50,11 @@ Objective: Update the next.config.mjs file to integrate the next-pwa package.
 Instructions:
 
 Open the next.config.mjs file in the root directory.
+
+## 2. Create a Web App Manifest
+
+Objective: Set up a manifest.json file to define the PWA’s metadata.
+
+Instructions:
+
+Create a file named manifest.json in the public directory.
