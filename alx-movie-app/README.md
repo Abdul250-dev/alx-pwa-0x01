@@ -29,7 +29,7 @@ Create the MovieCard Component:
 Create a new file named MovieCard.tsx in your components/commons directory.
 
 ## 0. Install Necessary Dependencies
-mandatory
+
 Objective: Set up the next-pwa package to enable PWA features in our cine seek movie app.
 
 Instructions:
@@ -42,3 +42,11 @@ Install the next-pwa package from here
 npm i @ducanh2912/next-pwa
 npm i -D webpack
 Verify the installation by checking the package.json file for "webpack": "^5.94.0" and "@ducanh2912/next-pwa": "^10.2.9"
+
+## 1. Configure PWA in Next.js
+
+Objective: Update the next.config.mjs file to integrate the next-pwa package.
+
+Instructions:
+
+Open the next.config.mjs file in the root directory.
