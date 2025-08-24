@@ -58,3 +58,13 @@ Objective: Set up a manifest.json file to define the PWA’s metadata.
 Instructions:
 
 Create a file named manifest.json in the public directory.
+
+## 3. Link the Manifest in _document.js
+
+Objective: Ensure the manifest is linked in your application for PWA functionality.
+
+Instructions:
+
+Open or create the _document.tsx file in the pages directory.
+
+Import the necessary components and link the manifest.json:
